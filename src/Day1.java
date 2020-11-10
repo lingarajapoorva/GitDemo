@@ -32,6 +32,8 @@ public class Day1 {
         	the 's' variable above should be printed first. */
         System.out.println(s+h);
         System.out.println(s);
+        System.out.println(h);
+        System.out.println(i);
 
         scan.close();
     }
