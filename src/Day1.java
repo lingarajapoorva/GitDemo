@@ -31,6 +31,7 @@ public class Day1 {
         /* Concatenate and print the String variables on a new line;
         	the 's' variable above should be printed first. */
         System.out.println(s+h);
+        System.out.println(s);
 
         scan.close();
     }
